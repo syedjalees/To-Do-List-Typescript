@@ -1,6 +1,6 @@
 {
   "name": "to-do-list-typescript_by_syd_jalees512",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "A simple todo list with typescript and Node Js and inquirer",
   "main": "index.js",
   "type": "module",

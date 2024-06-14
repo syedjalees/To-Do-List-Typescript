@@ -7,7 +7,7 @@ while (condition) {
         {
             name: `todo`,
             type: `input`,
-            message: `Do you want to add more?`,
+            message: `Enter your todo?`,
         },
         {
             name: `addMore`,
